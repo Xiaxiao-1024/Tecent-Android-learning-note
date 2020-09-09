@@ -32,7 +32,7 @@
 ![腾讯T3架构资料](https://upload-images.jianshu.io/upload_images/24099992-93fac83cb3643439.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-**资料获取方式：加入合作腾讯@Android高级架构Qqun：345659112，管理处免费领取资料**
+**资料获取方式：加入合作Android进阶学习⑥群：345659112，管理处免费领取资料**
 
 群内有许多来自一线的技术大牛，也有在小厂或外包公司奋斗的码农，我们致力打造一个平等，高质量的Android交流圈子，不一定能短期就让每个人的技术突飞猛进，但从长远来说，眼光，格局，长远发展的方向才是最重要的。
 
@@ -125,7 +125,9 @@ Java 是 Android App 开发默认的语言, Android Framework 也是默认使用
 
 ## [](https://github.com/Android-Alvin/Android-P7/blob/master/Android%E5%BC%80%E5%8F%91%E8%BF%98%E4%B8%8D%E4%BC%9A%E8%BF%99%E4%BA%9B%EF%BC%9F%E5%A6%82%E4%BD%95%E9%9D%A2%E8%AF%95%E6%8B%BF%E9%AB%98%E8%96%AA%EF%BC%81.md#资料获取)资料获取：
 
-![腾讯@Android高级架构群](https://jq.qq.com/?_wv=1027&k=bzoe7zcT)
-**加入合作腾讯@Android高级架构Qqun：345659112，管理处免费领取资料**
+**[Android进阶学习⑥群](https://jq.qq.com/?_wv=1027&k=bzoe7zcT)**
+**加入合作Android进阶学习⑥群：345659112，管理处免费领取资料**
+
+**或者微信：X1524478394 领取！**
 
 **Android架构师之路很漫长，一起共勉吧！**
